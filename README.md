@@ -1,5 +1,7 @@
 # Staking dApp
 
+**🔗 Live demo: https://staking-dapp-indol.vercel.app** (connect a wallet on Sepolia)
+
 A full-stack DeFi staking interface: a Next.js frontend connected to a
 Synthetix-style `StakingRewards` contract deployed and verified on Sepolia.
 Stake a token, watch rewards accrue in real time, claim and withdraw.
